@@ -1,0 +1,10 @@
+-install angular cli
+npm install -g @angular/cli
+-check version 
+ng version
+-create app
+ng new my-first-app
+-to run and deploy
+ng serve --o
+
+
