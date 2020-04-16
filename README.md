@@ -1,0 +1,1 @@
+# AFZALGREAT-shopmanageapp
