@@ -25,12 +25,10 @@ router.post("/authuser",(req,res)=>{
             }
             else{
                 console.log("incorrect password");
-                return false;
             }
         }
         else{
             console.log("user not found");
-            return false;
         }
         
 
